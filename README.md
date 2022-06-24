@@ -1,4 +1,4 @@
-# 다중 도메인 Table QA
+# 다중 도메인 Table QA 데이터셋
 
 ## 데이터 셋 Description
 
