@@ -1,7 +1,7 @@
 # 다중 도메인 Table QA
 
 ## 데이터 셋 Description
-##1. 다양한 형태의 표가 포함된 안전 법령 문서 데이터셋
+## 1. 다양한 형태의 표가 포함된 안전 법령 문서 데이터셋
 
 
 > 본 데이터셋은 국가법령정보센터(https://www.law.go.kr/LSW/main.html)에 존재하는 안전 법령 문서를 기반으로 구축된 다양한 형태의 표가 포함된 안전 법령 문서 질의응답 시스템을 위한 Train data set 및 Validation data set입니다. 총 2,005개의 QA로 구성되었습니다.
@@ -27,7 +27,7 @@
 ___
 
 
-##2. 한국어 공문서 표 형태 데이터셋
+## 2. 한국어 공문서 표 형태 데이터셋
 
 > 본 데이터셋은 공공데이터포털(https://www.data.go.kr/), 나무위키(https://namu.wiki) 2개의 도메인에서 Web Crawling으로 표 데이터를 수집하고, 정부24(https://www.gov.kr/portal/main), 다나와(https://www.danawa.com), 위키피디아(https://ko.wikipedia.org/wiki) 3개의 도메인에서 문서를 직접 수집하여 제작된 공문서 관련 데이터셋입니다. 총 10,500개의 QA셋으로 구성되어 있습니다.
 
